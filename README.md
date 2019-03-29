@@ -1,6 +1,7 @@
 # calculadora_imc
 
-Projeto feito no Curso "Criação de Apps Android e iOS com Flutter - Curso Completo" do Udemy.
+Projeto feito no Curso "Criação de Apps Android e iOS com Flutter - Curso Completo" do Udemy Criado por Daniel Ciolfi.
+
 link do curso: https://www.udemy.com/curso-completo-flutter-app-android-ios/
 
 nesta Aula:
